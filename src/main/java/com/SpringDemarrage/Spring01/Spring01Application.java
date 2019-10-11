@@ -21,7 +21,7 @@ public class Spring01Application {
 				+ "<li><a href='/doctor/1'>William Hartinell!</a></li>"
 				+ "<li><a href='/doctor/2'>Patrick Troughton!</a></li>" 
 				+ "<li><a href='/doctor/3'>Jon Pertwee!</a></li>"
-				+ "<li><a href='/Ddoctor/4'>Tom Baker!</a></li>" 
+				+ "<li><a href='/doctor/4'>Tom Baker!</a></li>" 
 				+ "</ul>";
 	}
 
